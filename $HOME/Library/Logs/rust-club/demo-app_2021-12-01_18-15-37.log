@@ -1,0 +1,2 @@
+INFO [demo_app] Application launched with settings: Settings { logging: Logging { log_dir: "$HOME/Library/Logs/rust-club" } }
+INFO [demo_app] Using stack: None
